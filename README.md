@@ -1,2 +1,5 @@
 # hellow-world
-1
+
+I like to learn how to coding.
+
+But my garmmer is not better enough.
